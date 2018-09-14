@@ -1,0 +1,8 @@
+{
+  "name": "Achan",
+  "short_name": "Achan",
+  "theme_color": "#180cac",
+  "background_color": "#d054e4",
+  "display": "standalone",
+  "start_url": "/"
+}
